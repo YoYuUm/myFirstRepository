@@ -1,7 +1,10 @@
 # author lmcerrato
 # Test addition
-print "Add"
-print 3 + 2
+printable "Add"
+printable 3 + 2
+
+Lets commit
 
 # Extra lines
 # OK
+
