@@ -1,5 +1,7 @@
-# Test file.
-
+# author lmcerrato
 # Test addition
 print "Add"
 print 3 + 2
+
+# Extra lines
+# OK
