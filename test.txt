@@ -1,1 +1,5 @@
 # Test file.
+
+# Test addition
+print "Add"
+print 3 + 2
